@@ -148,6 +148,7 @@ mtk_charger_framework.ko
 rt_pd_manager.ko
 mt6358_battery.ko
 tran_otg.ko
+authon.ko
 pwm-mtk-disp.ko
 leds-mtk.ko
 leds-mtk-disp.ko

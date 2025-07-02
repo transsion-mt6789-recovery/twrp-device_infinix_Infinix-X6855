@@ -279,6 +279,8 @@ alias of:N*T*Cmediatek,mt6373 mtk_spmi_pmic
 alias of:N*T*Cmediatek,mt6373C* mtk_spmi_pmic
 alias of:N*T*Cmediatek,scpsys-disable-unused mtk_pm_domain_disable_unused
 alias of:N*T*Cmediatek,scpsys-disable-unusedC* mtk_pm_domain_disable_unused
+alias of:N*T*Coptiga_authon,optiga_authon_dev authon
+alias of:N*T*Coptiga_authon,optiga_authon_devC* authon
 alias of:N*T*Cmediatek,pbm mtk_pbm
 alias of:N*T*Cmediatek,pbmC* mtk_pbm
 alias i2c:haptic_hv richtap_haptic_hv
