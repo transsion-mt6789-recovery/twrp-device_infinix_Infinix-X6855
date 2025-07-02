@@ -157,7 +157,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 
 	# variant
 	export OF_MAINTAINER="rama982"
-	export FOX_VARIANT="R11.2-A12_ramabondanp"
+	#export FOX_VARIANT="R11.2-A12_ramabondanp"
 
 	# no flashlight
 	export OF_FLASHLIGHT_ENABLE=0
